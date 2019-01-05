@@ -2,6 +2,8 @@
 
 # SuperGreenLeds-301B
 
+![SuperGreenLab](assets/SG-board-square-3.png?raw=true "SuperGreenLeds-301B")
+
 144 leds Aluminium substrate panel with integrated led driver and dimmer from supergreenlab (https://supergreenlab.com/)
 
 supergreenLed-301B is an open hardware Aluminium Substarte board. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
