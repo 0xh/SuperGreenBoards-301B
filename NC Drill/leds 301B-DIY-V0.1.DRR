@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: leds 301B-DIY-V0.2.PcbDoc   05/01/2019  12:16:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : leds 301B-DIY-V0.2.TXT
+EIA File   : leds 301B-DIY-V0.2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        82.68mil (2.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T2        165.35mil (4.19989mm)    Round          11        NPTH   34.42 Inch (874.18 mm)
+---------------------------------------------------------------------------
+Totals                                            12               34.42 Inch (874.18 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
