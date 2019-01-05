@@ -10,7 +10,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 # Board Overview
 
-* 144 samsung 561C leds (4*6x6 leds strips in parallel)
+* **LEDS** : 144 samsung 561C leds (4*6x6 leds strips)
 * **LED drivers** : 4xAL8860MP buck step-down, up to 1.5A led driver (https://www.diodes.com/assets/Datasheets/AL8860.pdf)
 * **POWER IN** : 24V standard 5*2.5mm barrel input (should be ok up to 40V) (compatible power supply : https://amzn.to/2FdblZF)
 * **DIMMER** : Standard screw Potentiometer for onboard dimming control
