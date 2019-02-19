@@ -5,11 +5,11 @@
 # Table of Contents
 
    * [SuperGreenBoards-301B](#supergreenboards-301b)
-   * [SGB.301B Overview](#overview)
+   * [SGB.301B Overview](#sgb301b-overview)
    * [Board specifications](#board-specifications)
-      * [SGB 36.301B](#36.301b)
-      * [SGB 72.301B](#72.301b)
-      * [SGB 144.301B](#144.301b)
+      * [SGB 36.301B](#sgb-36301b)
+      * [SGB 72.301B](#sgb-72301b)
+      * [SGB 144.301B](#sgb-144301b)
    * [License](#license)
    * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
 
@@ -22,7 +22,7 @@ SGB.301B are aluminium substrate led boards containing up to 288 Samsung's LM301
 
 Pull requests of relevant issues are warmly welcomed.
 
-# SGB.301B Overview<a name="overview"></a>
+# SGB.301B Overview
 
 * **LEDS** : up to 288 Samsung's [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) 220 lm/W, CRI80 leds. Boards are setup with 2/3 2700K leds and 1/3 5000K leds for best grow and flowering performances. (spectum below)
 * **ONBOARD LED drivers** (if applicable) : [AL8806MP8-13](https://www.diodes.com/assets/Datasheets/AL8806.pdf) buck step-down, up to 1.5A and 98% efficiency led driver.
@@ -35,7 +35,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 # Board specifications
  
-## SGB 36.301B<a name="36.301b"></a>
+## SGB 36.301B
 
 * **LEDS** : 36 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 4K lumens total
 * **ONBOARD LED drivers** : 1 
@@ -45,7 +45,7 @@ Pull requests of relevant issues are warmly welcomed.
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController]
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4
 
-## SGB 72.301B<a name="72.301b"></a>
+## SGB 72.301B
 
 * **LEDS** : 72 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 8K lumens total
 * **ONBOARD LED drivers** : 2 (36 leds/driver) 
@@ -55,7 +55,7 @@ Pull requests of relevant issues are warmly welcomed.
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, additionnal mounting holes on the side
 
-## SGB 144.301B<a name="144.301b"></a>
+## SGB 144.301B
 
 * **LEDS** : 144 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 16K lumens total
 * **ONBOARD LED drivers** : 4 (36 leds/driver) 
