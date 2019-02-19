@@ -22,7 +22,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 **TODO** Add board spectrum
 
- 24V/5 standard 5*2.5mm barrel input (compatible power supply : https://amzn.to/2FdblZF)
+ 24V/5 standard 5*2.5mm barrel input (compatible power supply : )
  
 # SGB 36.301B
 
@@ -42,7 +42,7 @@ Pull requests of relevant issues are warmly welcomed.
 * **CONNECTOR** : 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
 * **POWER INPUT** : 24VDC/2A (Constant Voltage), Max Power : 40W. Designed to be powered by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
-* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4 and additionnal mounting holes on the side
+* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, additionnal mounting holes on the side
 
 # SGB 144.301B
 
@@ -50,9 +50,9 @@ Pull requests of relevant issues are warmly welcomed.
 * **ONBOARD LED drivers** : 4 (36 leds/driver) 
 * **SIZE** : 250mmx230mm (9.8"x9")
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power and 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
-* **POWER** : Input : 24VDC/2A (Constant Voltage), Max Power : 40W. Designed to be powered by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
+* **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 80W.
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
-* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4 and additionnal mounting holes on the side
+* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
 # License
 
