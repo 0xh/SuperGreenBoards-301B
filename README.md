@@ -21,8 +21,6 @@ Pull requests of relevant issues are warmly welcomed.
 * **THERMAL** : Boards are made from Aluminium Substrate panel for best thermal performances. Each boards is designed to be used without heatsink in standard ambient temperature.
 
 **TODO** Add board spectrum
-
- 24V/5 standard 5*2.5mm barrel input (compatible power supply : )
  
 # SGB 36.301B
 
