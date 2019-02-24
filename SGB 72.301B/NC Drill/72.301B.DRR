@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 72.301B.PcbDoc   24/02/2019  12:47:24
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 72.301B-RoundHoles.TXT
+ASCII SlotHoles File : 72.301B-SlotHoles.TXT
+EIA File   : 72.301B.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        161.42mil (4.10007mm)    Round          12        NPTH   30.33 Inch (770.43 mm)
+T2        161.42mil (4.10007mm)    Slot           2         NPTH   284.55 Inch (7227.52 mm)
+---------------------------------------------------------------------------
+Totals                                            14               314.88 Inch (7997.95 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

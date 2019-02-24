@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\Dropbox\whysoserious\chronic-o-matic\Hardware\Altium\SGB 36.301B 2.0\PCB\36.301B.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_zip pads|Scope=Board|Minimum=59.06
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_logo|Scope=Board|Minimum=0.39
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_pads|Scope=Board|Minimum=102.36
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=9.84

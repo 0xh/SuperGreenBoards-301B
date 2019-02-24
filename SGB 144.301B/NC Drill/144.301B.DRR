@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 144.301B.PcbDoc   24/02/2019  12:48:58
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 144.301B-RoundHoles.TXT
+ASCII SlotHoles File : 144.301B-SlotHoles.TXT
+EIA File   : 144.301B.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        82.68mil (2.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T2        161.42mil (4.10007mm)    Round          12        NPTH   43.57 Inch (1106.70 mm)
+T3        161.42mil (4.10007mm)    Slot           6         NPTH   290.28 Inch (7373.18 mm)
+T4        240.16mil (6.10006mm)    Round          4         NPTH   23.62 Inch (600.00 mm)
+---------------------------------------------------------------------------
+Totals                                            23               357.48 Inch (9079.89 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

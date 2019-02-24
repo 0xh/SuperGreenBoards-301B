@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: D:\Dropbox\whysoserious\chronic-o-matic\Hardware\Altium\leds 301B-DIY-V0.1\PCB\leds 301B-DIY-V0.2.PcbDoc
-RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=0.39
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance_pads|Scope=Board|Minimum=39.37
