@@ -69,7 +69,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 * **LEDS** : 288 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for up to 32K total
 * **SIZE** : 350mmx250mm (13.8"x9.8")
-* **CONNECTORS** : 
+* **CONNECTORS** : [Screwless terminal block](https://www.metz-connect.com/us/system/files/productfiles/Data_sheet_SM99S01VBNN04G7_SM99S01VBNN04G7_OFF-031067R.pdf) 16-22AWG
 * **POWER** : [Power supply guide](https://supergreenlab.com/sg-288301b-driver-guide)
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
