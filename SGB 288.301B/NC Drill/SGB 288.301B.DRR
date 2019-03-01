@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SGB 288.301B.PcbDoc   01/03/2019  12:19:02
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SGB 288.301B-RoundHoles.TXT
+ASCII SlotHoles File : SGB 288.301B-SlotHoles.TXT
+EIA File   : SGB 288.301B.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        161.42mil (4.10007mm)    Round          8         NPTH   16.46 Inch (418.12 mm)
+T2        161.42mil (4.10007mm)    Slot           6         NPTH   320.09 Inch (8130.31 mm)
+T3        240.16mil (6.10006mm)    Round          4         NPTH   23.62 Inch (600.00 mm)
+---------------------------------------------------------------------------
+Totals                                            18               360.17 Inch (9148.43 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
