@@ -9,7 +9,7 @@
    * [Board specifications](#board-specifications)
       * [SGB 36.301B](#sgb-36301b)
       * [SGB 72.301B](#sgb-72301b)
-      * [SGB 144.301B](#sgb-144301b)
+      * [SGB 288.301B](#sgb-288301b)
    * [License](#license)
    * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
 
@@ -63,6 +63,14 @@ Pull requests of relevant issues are warmly welcomed.
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power and 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
 * **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 80W.
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
+* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
+
+## SGB 288.301B
+
+* **LEDS** : 288 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for up to 32K total
+* **SIZE** : 350mmx250mm (13.8"x9.8")
+* **CONNECTORS** : 
+* **POWER** : [Power supply guide](https://supergreenlab.com/sg-288301b-driver-guide)
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
 # License
