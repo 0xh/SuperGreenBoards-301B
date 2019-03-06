@@ -9,6 +9,8 @@
    * [Board specifications](#board-specifications)
       * [SGB 36.301B](#sgb-36301b)
       * [SGB 72.301B](#sgb-72301b)
+      * [SGB 144.301B](#sgb-144301b)
+      * [SB 192.301B](#sb-192301b)
       * [SGB 288.301B](#sgb-288301b)
    * [License](#license)
    * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
@@ -57,11 +59,22 @@ Pull requests of relevant issues are warmly welcomed.
 
 ## SGB 144.301B
 
-* **LEDS** : 144 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 16K lumens total
+* **LEDS** : 144 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 20K lumens total
 * **ONBOARD LED drivers** : 4 (36 leds/driver) 
 * **SIZE** : 250mmx230mm (9.8"x9")
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power and 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
 * **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 80W.
+* **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
+* **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
+
+## SB 192.301B
+
+* **LEDS** : 192 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 16K lumens total
+* **ONBOARD LED drivers** : 4 (48 leds/driver) 
+* **MCU** : [ESP32-WROOM-32](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview), wifi , bluetooth and BLE microcontroller. Fimrware : [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) app : [SuperGreenApp](https://github.com/supergreenlab/SuperGreenApp)
+* **SIZE** : 350mmx230mm (13.8"x9")
+* **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power , 2 pins JST-XH [S2B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for Fan/Blower and 4 pins JST-XH [S4B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for sensor
+* **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 12W.
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
