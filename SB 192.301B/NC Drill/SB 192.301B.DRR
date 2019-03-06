@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SB 192.301B.PcbDoc   01/03/2019  14:23:18
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SB 192.301B-RoundHoles.TXT
+ASCII SlotHoles File : SB 192.301B-SlotHoles.TXT
+EIA File   : SB 192.301B.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        39.37mil (1mm)           Round          3         NPTH   0.38 Inch (9.72 mm)
+T2        82.68mil (2.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T3        96.46mil (2.45008mm)     Round          4         NPTH   0.63 Inch (15.88 mm)
+T4        161.42mil (4.10007mm)    Round          12        NPTH   53.67 Inch (1363.14 mm)
+T5        161.42mil (4.10007mm)    Slot           7         NPTH   290.89 Inch (7388.54 mm)
+T6        240.16mil (6.10006mm)    Round          4         NPTH   23.62 Inch (600.00 mm)
+---------------------------------------------------------------------------
+Totals                                            31               369.18 Inch (9377.28 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
