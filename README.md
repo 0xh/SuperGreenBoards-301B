@@ -75,7 +75,6 @@ Pull requests of relevant issues are warmly welcomed.
 * **SIZE** : 350mmx230mm (13.8"x9")
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power , 2 pins JST-XH [S2B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for Fan/Blower and 4 pins JST-XH [S4B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for sensor
 * **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 12W.
-* **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
 ## SGB 288.301B
