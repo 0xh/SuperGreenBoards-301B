@@ -74,7 +74,7 @@ Pull requests of relevant issues are warmly welcomed.
 * **MCU** : [ESP32-WROOM-32](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview), wifi , bluetooth and BLE microcontroller. Fimrware : [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) app : [SuperGreenApp](https://github.com/supergreenlab/SuperGreenApp)
 * **SIZE** : 350mmx230mm (13.8"x9")
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power , 2 pins JST-XH [S2B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for Fan/Blower and 4 pins JST-XH [S4B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for sensor
-* **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 12W.
+* **POWER** : Input : 24VDC/5A (Constant Voltage Power supply : https://amzn.to/2DNSty4), Max Power : 120W.
 * **MOUNTING HOLES** : VESA 75x75mm and 100x100m M4, VESA 200x200mm M6, additionnal mounting holes on the side
 
 ## SGB 288.301B
