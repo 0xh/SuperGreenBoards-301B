@@ -59,7 +59,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 ## SGB 144.301B
 
-* **LEDS** : 144 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 20K lumens total
+* **LEDS** : 144 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 16K lumens total
 * **ONBOARD LED drivers** : 4 (36 leds/driver) 
 * **SIZE** : 250mmx230mm (9.8"x9")
 * **CONNECTOR** : Standard 5*2.5mm Barrel/Jack for power and 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
@@ -69,7 +69,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 ## SB 192.301B
 
-* **LEDS** : 192 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 16K lumens total
+* **LEDS** : 192 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 20K lumens total
 * **ONBOARD LED drivers** : 4 (48 leds/driver) 
 * **MCU** : [ESP32-WROOM-32](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview), wifi , bluetooth and BLE microcontroller. Fimrware : [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) app : [SuperGreenApp](https://github.com/supergreenlab/SuperGreenApp)
 * **SIZE** : 350mmx230mm (13.8"x9")
