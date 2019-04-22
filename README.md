@@ -51,7 +51,7 @@ Pull requests of relevant issues are warmly welcomed.
 
 * **LEDS** : 72 [LM301B](https://www.samsung.com/led/lighting/mid-power-leds/3030-leds/lm301b/) for 8K lumens total
 * **ONBOARD LED drivers** : 2 (36 leds/driver) 
-* **SIZE** : 250mmx130mm (9.8"x5.1")
+* **SIZE** : 250mmx110mm (9.8"x5.1")
 * **CONNECTOR** : 3 pins JST-XH [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277) for power and dimmer
 * **POWER INPUT** : 24VDC/2A (Constant Voltage), Max Power : 40W. Designed to be powered by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
 * **DIMMER** : 10V analog or PWM. Designed to be controlled by supergreenlab's [SGController](https://github.com/supergreenlab/SuperGreenController)
